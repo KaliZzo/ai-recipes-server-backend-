@@ -1,0 +1,1 @@
+Extract the ingredients from this text only in English
